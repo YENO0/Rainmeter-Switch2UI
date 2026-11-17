@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" fill="none">
+  <!-- Center Ring -->
+  <circle 
+    cx="50" 
+    cy="50" 
+    r="24" 
+    stroke="#767676" 
+    stroke-width="7.5" 
+  />
+
+  <!-- 8 Radial Spokes with Subtle Rounded Tips -->
+  <g fill="#767676">
+    <!-- Top & Bottom -->
+    <rect x="46.25" y="12" width="7.5" height="13" rx="2" />
+    <rect x="46.25" y="75" width="7.5" height="13" rx="2" />
+    
+    <!-- Left & Right -->
+    <rect x="12" y="46.25" width="13" height="7.5" rx="2" />
+    <rect x="75" y="46.25" width="13" height="7.5" rx="2" />
+
+    <!-- Diagonal Spokes (45° intervals) -->
+    <rect x="46.25" y="12" width="7.5" height="13" rx="2" transform="rotate(45 50 50)" />
+    <rect x="46.25" y="12" width="7.5" height="13" rx="2" transform="rotate(135 50 50)" />
+    <rect x="46.25" y="12" width="7.5" height="13" rx="2" transform="rotate(225 50 50)" />
+    <rect x="46.25" y="12" width="7.5" height="13" rx="2" transform="rotate(315 50 50)" />
+  </g>
+</svg>

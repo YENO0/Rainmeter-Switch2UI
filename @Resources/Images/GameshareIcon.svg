@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 100" width="110" height="100" fill="none">
+  <!-- Open-Top Rectangular Tray -->
+  <path 
+    d="M 27 32 H 21 A 4 4 0 0 0 17 36 V 80 A 4 4 0 0 0 21 84 H 89 A 4 4 0 0 0 93 80 V 36 A 4 4 0 0 0 89 32 H 83" 
+    stroke="#12A7B5" 
+    stroke-width="8" 
+    stroke-linecap="butt" 
+    stroke-linejoin="round" 
+  />
+
+  <!-- Three Stacked Downward-Curving Waves -->
+  <path 
+    d="M 38 17 Q 55 24 72 17" 
+    stroke="#12A7B5" 
+    stroke-width="7.5" 
+    stroke-linecap="butt" 
+  />
+  <path 
+    d="M 35 32 Q 55 40 75 32" 
+    stroke="#12A7B5" 
+    stroke-width="7.5" 
+    stroke-linecap="butt" 
+  />
+  <path 
+    d="M 32 47 Q 55 56 78 47" 
+    stroke="#12A7B5" 
+    stroke-width="7.5" 
+    stroke-linecap="butt" 
+  />
+</svg>

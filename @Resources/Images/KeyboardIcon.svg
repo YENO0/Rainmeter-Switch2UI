@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 130" width="360" height="130" fill="none">
+  <!-- Outer Keyboard Chassis -->
+  <rect x="4" y="4" width="352" height="122" rx="6" stroke="#222222" stroke-width="3.5" />
+
+  <!-- All Keycaps -->
+  <g stroke="#222222" stroke-width="2.5">
+    <!-- Row 1: Function Row (Esc, F1-F4, F5-F8, F9-F12, Nav Top) -->
+    <rect x="10" y="10" width="15.5" height="15.5" rx="1.2" />
+    
+    <rect x="36" y="10" width="15.5" height="15.5" rx="1.2" />
+    <rect x="54" y="10" width="15.5" height="15.5" rx="1.2" />
+    <rect x="72" y="10" width="15.5" height="15.5" rx="1.2" />
+    <rect x="90" y="10" width="15.5" height="15.5" rx="1.2" />
+
+    <rect x="115" y="10" width="15.5" height="15.5" rx="1.2" />
+    <rect x="133" y="10" width="15.5" height="15.5" rx="1.2" />
+    <rect x="151" y="10" width="15.5" height="15.5" rx="1.2" />
+    <rect x="169" y="10" width="15.5" height="15.5" rx="1.2" />
+
+    <rect x="194" y="10" width="15.5" height="15.5" rx="1.2" />
+    <rect x="212" y="10" width="15.5" height="15.5" rx="1.2" />
+    <rect x="230" y="10" width="15.5" height="15.5" rx="1.2" />
+    <rect x="248" y="10" width="15.5" height="15.5" rx="1.2" />
+
+    <!-- Nav Cluster Row 1 -->
+    <rect x="275" y="10" width="15.5" height="15.5" rx="1.2" />
+    <rect x="293" y="10" width="15.5" height="15.5" rx="1.2" />
+    <rect x="311" y="10" width="15.5" height="15.5" rx="1.2" />
+
+    <!-- Row 2: Number Row + Backspace + Nav Middle -->
+    <rect x="10" y="30" width="15.5" height="15.5" rx="1.2" />
+    <rect x="28" y="30" width="15.5" height="15.5" rx="1.2" />
+    <rect x="46" y="30" width="15.5" height="15.5" rx="1.2" />
+    <rect x="64" y="30" width="15.5" height="15.5" rx="1.2" />
+    <rect x="82" y="30" width="15.5" height="15.5" rx="1.2" />
+    <rect x="100" y="30" width="15.5" height="15.5" rx="1.2" />
+    <rect x="118" y="30" width="15.5" height="15.5" rx="1.2" />
+    <rect x="136" y="30" width="15.5" height="15.5" rx="1.2" />
+    <rect x="154" y="30" width="15.5" height="15.5" rx="1.2" />
+    <rect x="172" y="30" width="15.5" height="15.5" rx="1.2" />
+    <rect x="190" y="30" width="15.5" height="15.5" rx="1.2" />
+    <rect x="208" y="30" width="15.5" height="15.5" rx="1.2" />
+    <rect x="226" y="30" width="15.5" height="15.5" rx="1.2" />
+    <rect x="244" y="30" width="33.5" height="15.5" rx="1.2" />
+
+    <!-- Nav Cluster Row 2 -->
+    <rect x="287" y="30" width="15.5" height="15.5" rx="1.2" />
+    <rect x="305" y="30" width="15.5" height="15.5" rx="1.2" />
+    <rect x="323" y="30" width="15.5" height="15.5" rx="1.2" />
+
+    <!-- Row 3: Tab + QWERTY + Backslash + Nav Bottom -->
+    <rect x="10" y="48" width="24.5" height="15.5" rx="1.2" />
+    <rect x="37" y="48" width="15.5" height="15.5" rx="1.2" />
+    <rect x="55" y="48" width="15.5" height="15.5" rx="1.2" />
+    <rect x="73" y="48" width="15.5" height="15.5" rx="1.2" />
+    <rect x="91" y="48" width="15.5" height="15.5" rx="1.2" />
+    <rect x="109" y="48" width="15.5" height="15.5" rx="1.2" />
+    <rect x="127" y="48" width="15.5" height="15.5" rx="1.2" />
+    <rect x="145" y="48" width="15.5" height="15.5" rx="1.2" />
+    <rect x="163" y="48" width="15.5" height="15.5" rx="1.2" />
+    <rect x="181" y="48" width="15.5" height="15.5" rx="1.2" />
+    <rect x="199" y="48" width="15.5" height="15.5" rx="1.2" />
+    <rect x="217" y="48" width="15.5" height="15.5" rx="1.2" />
+    <rect x="235" y="48" width="15.5" height="15.5" rx="1.2" />
+    <rect x="253" y="48" width="24.5" height="15.5" rx="1.2" />
+
+    <!-- Nav Cluster Row 3 (Wide Left Key + Standard Right Key) -->
+    <rect x="287" y="48" width="33.5" height="15.5" rx="1.2" />
+    <rect x="323" y="48" width="15.5" height="15.5" rx="1.2" />
+
+    <!-- Row 4: Caps Lock + ASDF + Enter -->
+    <rect x="10" y="66" width="29" height="15.5" rx="1.2" />
+    <rect x="41.5" y="66" width="15.5" height="15.5" rx="1.2" />
+    <rect x="59.5" y="66" width="15.5" height="15.5" rx="1.2" />
+    <rect x="77.5" y="66" width="15.5" height="15.5" rx="1.2" />
+    <rect x="95.5" y="66" width="15.5" height="15.5" rx="1.2" />
+    <rect x="113.5" y="66" width="15.5" height="15.5" rx="1.2" />
+    <rect x="131.5" y="66" width="15.5" height="15.5" rx="1.2" />
+    <rect x="149.5" y="66" width="15.5" height="15.5" rx="1.2" />
+    <rect x="167.5" y="66" width="15.5" height="15.5" rx="1.2" />
+    <rect x="185.5" y="66" width="15.5" height="15.5" rx="1.2" />
+    <rect x="203.5" y="66" width="15.5" height="15.5" rx="1.2" />
+    <rect x="221.5" y="66" width="15.5" height="15.5" rx="1.2" />
+    <rect x="239.5" y="66" width="38" height="15.5" rx="1.2" />
+
+    <!-- Row 5: Left Shift + ZXCV + Right Shift + Up Arrow -->
+    <rect x="10" y="84" width="38" height="15.5" rx="1.2" />
+    <rect x="50.5" y="84" width="15.5" height="15.5" rx="1.2" />
+    <rect x="68.5" y="84" width="15.5" height="15.5" rx="1.2" />
+    <rect x="86.5" y="84" width="15.5" height="15.5" rx="1.2" />
+    <rect x="104.5" y="84" width="15.5" height="15.5" rx="1.2" />
+    <rect x="122.5" y="84" width="15.5" height="15.5" rx="1.2" />
+    <rect x="140.5" y="84" width="15.5" height="15.5" rx="1.2" />
+    <rect x="158.5" y="84" width="15.5" height="15.5" rx="1.2" />
+    <rect x="176.5" y="84" width="15.5" height="15.5" rx="1.2" />
+    <rect x="194.5" y="84" width="15.5" height="15.5" rx="1.2" />
+    <rect x="212.5" y="84" width="15.5" height="15.5" rx="1.2" />
+    <rect x="230.5" y="84" width="47" height="15.5" rx="1.2" />
+
+    <!-- Up Arrow -->
+    <rect x="305" y="84" width="15.5" height="15.5" rx="1.2" />
+
+    <!-- Row 6: Bottom Modifiers + Spacebar + Left/Down/Right Arrows -->
+    <rect x="10" y="102" width="20" height="15.5" rx="1.2" />
+    <rect x="32.5" y="102" width="20" height="15.5" rx="1.2" />
+    <rect x="55" y="102" width="20" height="15.5" rx="1.2" />
+    <!-- Spacebar -->
+    <rect x="77.5" y="102" width="112" height="15.5" rx="1.2" />
+    <!-- Spacebar Center Indicator -->
+    <rect x="128" y="105.5" width="11" height="1.8" rx="0.8" fill="#222222" stroke="none" />
+    
+    <rect x="192" y="102" width="19.5" height="15.5" rx="1.2" />
+    <rect x="214" y="102" width="19.5" height="15.5" rx="1.2" />
+    <rect x="236" y="102" width="19.5" height="15.5" rx="1.2" />
+    <rect x="258" y="102" width="19.5" height="15.5" rx="1.2" />
+
+    <!-- Left, Down, Right Arrows -->
+    <rect x="287" y="102" width="15.5" height="15.5" rx="1.2" />
+    <rect x="305" y="102" width="15.5" height="15.5" rx="1.2" />
+    <rect x="323" y="102" width="15.5" height="15.5" rx="1.2" />
+  </g>
+</svg>

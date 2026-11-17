@@ -1,0 +1,32 @@
+# Optional user images and other local resources must not enter source control.
+@Resources/
+!@Resources/
+@Resources/*
+!@Resources/Images/
+@Resources/Images/*
+!@Resources/Images/NewsIcon.png
+!@Resources/Images/NewsIcon.svg
+# Bundled dock icon sources and PNG renders.
+!@Resources/Images/ControllerIcon.png
+!@Resources/Images/ControllerIcon.svg
+!@Resources/Images/KeyboardIcon.png
+!@Resources/Images/KeyboardIcon.svg
+!@Resources/Images/DigitalGameCardIcon.png
+!@Resources/Images/DigitalGameCardIcon.svg
+!@Resources/Images/eShopIcon.png
+!@Resources/Images/eShopIcon.svg
+!@Resources/Images/GalleryIcon.png
+!@Resources/Images/GalleryIcon.svg
+!@Resources/Images/GameshareIcon.png
+!@Resources/Images/GameshareIcon.svg
+!@Resources/Images/NintendoOnlineIcon.png
+!@Resources/Images/NintendoOnlineIcon.svg
+!@Resources/Images/PowerIcon.png
+!@Resources/Images/PowerIcon.svg
+!@Resources/Images/SettingsIcon.png
+!@Resources/Images/SettingsIcon.svg
+
+# Common operating-system metadata
+Thumbs.db
+desktop.ini
+.DS_Store
